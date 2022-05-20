@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-19T11:23:42.228Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="UQSeUfphNuYOHAZZEmSq" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-20T14:06:24.548Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="XbCYYXLYRjTJ9Nfbb_CK" version="18.0.7" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1411" dy="1034" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1556" dy="1124" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -314,7 +314,7 @@
             <mxPoint x="88" y="1301" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zr5AnwlDveNe9Rp0J4vt-72" value="提交用户信息&lt;br&gt;与简历表单" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1" target="zr5AnwlDveNe9Rp0J4vt-45">
+        <mxCell id="zr5AnwlDveNe9Rp0J4vt-72" value="将职位ID与企业ID提交" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1" target="zr5AnwlDveNe9Rp0J4vt-45">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="132" y="1462" as="sourcePoint" />
             <mxPoint x="206" y="1453" as="targetPoint" />
